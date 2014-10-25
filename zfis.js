@@ -66,6 +66,14 @@ fis.config.merge({
 		}]
 	},
 	settings: {
+		parser: {
+			tmodjs: {
+				escape: true,
+				compress: true,
+				type: "default",
+				runtime: "template.js"
+			}
+		}
 		postprocessor: {
 			jswrapper: {
 				type: 'amd'
