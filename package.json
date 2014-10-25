@@ -24,6 +24,9 @@
 		"fis": "^1.8.3",
 		"fis-lint-csslint": "0.0.2",
 		"fis-lint-jshint": "0.0.9",
-		"fis-parser-less": "^0.1.1"
+		"fis-parser-less": "^0.1.1",
+		"fis-parser-tmodjs": "^0.1.4",
+		"fis-postprocessor-jswrapper": "0.0.8",
+		"fis-postprocessor-require-async": "0.0.8"
 	}
 }
