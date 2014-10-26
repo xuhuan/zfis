@@ -73,7 +73,7 @@ fis.config.merge({
 				type: "default",
 				runtime: "template.js"
 			}
-		}
+		},
 		postprocessor: {
 			jswrapper: {
 				type: 'amd'

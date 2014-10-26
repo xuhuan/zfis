@@ -1,8 +1,11 @@
 {
 	"name": "zfis",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"description": "use fis by zjj's way.",
 	"main": "zfis.js",
+	"bin": {
+		"zfis": "bin/zfis"
+	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
